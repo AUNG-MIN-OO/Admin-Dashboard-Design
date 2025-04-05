@@ -174,4 +174,18 @@ a.sidebar-link:hover{
     color: #7277f2;
 }
 
+/*--------------------------------- main ---------------------------------*/
+.navbar{
+    background-color: #fff;
+    box-shadow: 0 0 2rem 0 rgba(33, 37, 41, .1);
+}
+
+.navbar-expand .navbar-collapse{
+    min-width: 200px;
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+}
 
